@@ -93,7 +93,7 @@
 4/7, 백준 : [11722 가장긴 감소하는 부분수열](https://www.acmicpc.net/problem/11722) 🥈2</br>
 4/8, 백준 : [1904 01타일](https://www.acmicpc.net/problem/1904) 🥈3</br>
 
-## 👀 11주차 알고리즘(4/4 ~ 4/8)(Dynamic Programming)
+## 👀 12주차 알고리즘(4/11 ~ 4/15)(Dynamic Programming)
 [💡 리드미 읽으러 가기!](https://github.com/Dev-lemongrab/JavaAndAlgorithms/tree/main/yunseong/algorithm/dynamicProgramming)</br>
 4/4, 백준 : [14494 다이나믹이 뭐에요?](https://www.acmicpc.net/problem/14494) 🥈2 </br>
 4/5, 백준 : [2407 조합](https://www.acmicpc.net/problem/2407) 🥈3</br>
