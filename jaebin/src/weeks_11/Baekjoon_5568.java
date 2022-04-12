@@ -4,7 +4,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.HashSet;
-import java.util.StringTokenizer;
 
 //백준 알고리즘 5568번 :  카드 놓기
 public class Baekjoon_5568 {

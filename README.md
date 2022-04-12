@@ -110,6 +110,13 @@
 4/7, 백준 알고리즘 : [5568번 카드놓기](https://www.acmicpc.net/problem/5568)</br>
 4/8, 백준 알고리즘 : [11729번 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)</br>
 
+## 12주차 알고리즘테스트(4/11-4/15)
+4/11, 백준 알고리즘 : [11170번 0의 개수](https://www.acmicpc.net/problem/11170)</br> 
+4/12, 프로그래머스 : [레벨 2 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)</br>
+4/13, 백준 알고리즘 : [1065번 한수](https://www.acmicpc.net/problem/1065)</br>
+4/14, 프로그래머스 : [레벨 2 카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)</br>
+4/15, 백준 알고리즘 : [16505번 별](https://www.acmicpc.net/problem/16505)</br>
+
 <a name="week_10_12"></a>
 ---
 <a href="#top" style="border:1px solid black">위로 ↑ </a> &nbsp;
